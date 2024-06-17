@@ -1,6 +1,6 @@
 def print_motto_companies():
   """Prints a Hello World message and a sorted list of motto companies in Edo State, Nigeria"""
-  # Print Hello World message
+  # Print Hello World message 2024-06-17
   print("Hello World!")
 
   # Sample list of motto companies in Edo State, Nigeria
